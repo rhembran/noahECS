@@ -1,0 +1,32 @@
+[
+  {
+    "portLabel":"relay1",
+    "portDescription": "Water Valve to the first bench" ,
+    "portValue" : "2",
+    "portFunction" : "interval"
+  },
+  {
+    "portLabel":"relay2",
+    "portDescription": "Water Valve to the second bench" ,
+    "portValue" : 3,
+    "portFunction" : "temperature"
+  },
+  {
+    "portLabel":"relay3",
+    "portDescription": "Water Valve to the third bench" ,
+    "portValue" : 4,
+    "portFunction" : "temperature"
+  },
+  {
+    "portLabel":"relay4",
+    "portDescription": "Water Valve to the fourth bench" ,
+    "portValue" : 5,
+    "portFunction" : "temperature"
+  },
+  {
+    "portLabel":"relay5",
+    "portDescription": "Water Valve to the fifth bench" ,
+    "portValue" : 6,
+    "portFunction" : "temperature"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "transport": "scp",
+  "hostname": "192.168.15.109",
+  "port": "22",
+  "username": "root",
+  "password": "mar.k3t",
+  "target": "/root/python/noah",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "uploadOnSave": true,
+  "deleteLocal": true
+}
